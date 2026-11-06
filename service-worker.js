@@ -1,4 +1,4 @@
-const CACHE_NAME = "blob-rush-pwa-v1";
+const CACHE_NAME = "blob-rush-pwa-v2";
 
 const FILES_TO_CACHE = [
   "./",
